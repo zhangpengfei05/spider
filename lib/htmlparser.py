@@ -1,14 +1,9 @@
 #!/usr/bin/env python
 #-*- coding: UTF-8 -*-
-################################################################################
-#
-# Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
-#
-################################################################################
 """
 This module provide webpage parser service
 
-@author:  zhangpengfei05(zhangpengfei05@baidu.com)
+@author:  zhangpengfei05
 @date     2017.10.17
 """
 

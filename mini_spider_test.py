@@ -1,14 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: UTF-8 -*-
-################################################################################
-#
-# Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
-#
-################################################################################
 """
 This module provide spider service
 
-@author:  zhangpengfei05(zhangpengfei05@baidu.com)
 @date     2017.10.17
 """
 import urllib2
